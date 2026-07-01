@@ -1,0 +1,16 @@
+{
+  "name": "wifi-multiplayer-arena",
+  "version": "1.0.0",
+  "description": "A 2D multiplayer space arena game playable over local WiFi network.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3",
+    "socket.io": "^4.7.5"
+  },
+  "author": "",
+  "license": "MIT"
+}
